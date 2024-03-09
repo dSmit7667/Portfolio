@@ -107,7 +107,7 @@ header {
   border: 1px solid black;
   margin: auto;
   border-radius: 50%;
-  background: url(/image/home-img.jpg);
+  background: url(/Image/home-img);
   background-size: cover;
 }
 
