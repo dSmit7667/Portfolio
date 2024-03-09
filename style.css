@@ -102,8 +102,8 @@ header {
 }
 
 .home-content .name .img {
-/*   height: 17rem; */
-/*   width: 17rem; */
+  height: 17rem;
+  width: 17rem;
   border: 1px solid black;
   margin: auto;
   border-radius: 50%;
